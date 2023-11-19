@@ -1,7 +1,5 @@
 # Priority_Encoder_RTL
 
-# Comparator_RTL
-
 Hi everyone!!
 <br/>This Github Repository contains the RTL design of a **Priority Encoder**. 
 <br/> *Design Language: **Verilog***
